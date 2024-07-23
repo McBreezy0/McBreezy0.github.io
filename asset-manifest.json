@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7171165.css",
-    "main.js": "/static/js/main.f4159b8f.js",
-    "static/js/453.f4fbaa6d.chunk.js": "/static/js/453.f4fbaa6d.chunk.js",
-    "static/media/nextlevelintramurals.png": "/static/media/nextlevelintramurals.329b8a2ab8c89b5b6394.png",
-    "static/media/road.jpg": "/static/media/road.36732ef7d33936c3db11.jpg",
-    "static/media/justanormalconvo.png": "/static/media/justanormalconvo.687612bd63661476b7d0.png",
-    "index.html": "/index.html",
-    "main.f7171165.css.map": "/static/css/main.f7171165.css.map",
-    "main.f4159b8f.js.map": "/static/js/main.f4159b8f.js.map",
-    "453.f4fbaa6d.chunk.js.map": "/static/js/453.f4fbaa6d.chunk.js.map"
+    "main.css": "/McBreezy0.github.io/static/css/main.611966ad.css",
+    "main.js": "/McBreezy0.github.io/static/js/main.61ff0504.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/McBreezy0.github.io/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/nextlevelintramurals.png": "/McBreezy0.github.io/static/media/nextlevelintramurals.329b8a2ab8c89b5b6394.png",
+    "static/media/road.jpg": "/McBreezy0.github.io/static/media/road.36732ef7d33936c3db11.jpg",
+    "static/media/justanormalconvo.png": "/McBreezy0.github.io/static/media/justanormalconvo.687612bd63661476b7d0.png",
+    "index.html": "/McBreezy0.github.io/index.html",
+    "main.611966ad.css.map": "/McBreezy0.github.io/static/css/main.611966ad.css.map",
+    "main.61ff0504.js.map": "/McBreezy0.github.io/static/js/main.61ff0504.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/McBreezy0.github.io/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7171165.css",
-    "static/js/main.f4159b8f.js"
+    "static/css/main.611966ad.css",
+    "static/js/main.61ff0504.js"
   ]
 }
